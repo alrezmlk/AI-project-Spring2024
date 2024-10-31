@@ -68,6 +68,6 @@ To run the notebooks, follow these steps:
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/alrezmlk/AI-project-Spring2024/
+   git clone https://github.com/alrezmlk/AI-project-Spring2024.git
    cd ai-course-project
 
